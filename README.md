@@ -13,10 +13,9 @@
 ## BOM
 - Mcus:
    - [STM32](https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F072RBT6/4815291s)
-   - [other popular](https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA32U4-AUR/ATMEGA32U4-AURCT-ND/3440960)
 
 - OLED display:
-   - [display](https://www.digikey.com/en/products/detail/winstar-display/WEA012832FWPP3N00000/22207838)
+   - [display]()
 
 - Encoder:
    - [encoder](https://www.digikey.com/en/products/detail/bourns-inc/PEC11R-4315K-S0024/7314924)
