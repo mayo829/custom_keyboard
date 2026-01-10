@@ -4,8 +4,9 @@
 - LCD display
 - knob
 - rgb backlit
-- somehow layout the normal 60% plus pgup, pgdn, del, arrows, lcd, and knob and find compatible keycaps
-- keycaps need to be, shine-through, square, 
+- addressable rgb key lighting
+- somehow layout the normal 60% plus pgup, pgdn, del, arrows, lcd, and knob and find compatible keycaps (60% keyboard with one extra column)
+- keycaps need to be, shine-through, square,
 - case and other stuff to house the keyboard nicely
 - usbc
 
