@@ -1,14 +1,15 @@
 # Customized keyboard from scratch!
 
 ## Requirements
-- LCD display
-- knob
-- rgb backlit
-- addressable rgb key lighting
-- somehow layout the normal 60% plus pgup, pgdn, del, arrows, lcd, and knob and find compatible keycaps (60% keyboard with one extra column)
-- keycaps need to be, shine-through, square,
-- case and other stuff to house the keyboard nicely
-- usbc
+| Device | Requirement Met |
+| LCD display | 0 |
+| knob | 0 |
+| rgb backlit | 0 |
+| addressable rgb key lighting | 0 |
+| somehow layout the normal 60% plus pgup, pgdn, del, arrows, lcd, and knob and find compatible keycaps (60% keyboard with one extra column) | 0 |
+| keycaps need to be, shine-through, square, | 0 |
+| case and other stuff to house the keyboard nicely | 0 |
+| usbc | 0 |
 
 ## BOM
 - Mcus:
