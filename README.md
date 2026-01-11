@@ -1,10 +1,10 @@
 # Customized keyboard from scratch!
 
 ## Requirements
-| Device | Requirement Met |
+| Device | Requirement Met | Part number |
 | LCD display | 0 |
 | knob | 0 |
-| rgb backlit | 0 |
+| [rgb backlit](https://www.digikey.com/en/products/detail/sparkfun-electronics/COM-24837/22321085?gclsrc=aw.ds&gad_source=1&gad_campaignid=20228387720&gbraid=0AAAAADrbLlgSjTrdEqANFxgXgC02mKwfv&gclid=CjwKCAiAjojLBhAlEiwAcjhrDpL0sVmSf_AmglqLysg8uP9_rsrsxjCyNCUdnPwnI6o1eOr4FKzDCRoCRfgQAvD_BwE) | 0 | COM-24837 |
 | addressable rgb key lighting | 0 |
 | somehow layout the normal 60% plus pgup, pgdn, del, arrows, lcd, and knob and find compatible keycaps (60% keyboard with one extra column) | 0 |
 | keycaps need to be, shine-through, square, | 0 |
